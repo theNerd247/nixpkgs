@@ -1,7 +1,7 @@
 {
   "url": "/data/git/itcli",
-  "rev": "a81c51875bebad6c5e574b980d45c684415da39c",
-  "date": "2018-09-02T00:26:06-04:00",
-  "sha256": "0h1g6i74zk5fh6y3wm490s72w2k1r6sq95gga1isdjbr8s4pyi7m",
+  "rev": "5eb4461417ae699f95dc09b1cdf963f17b5d8780",
+  "date": "2018-09-24T13:26:00-04:00",
+  "sha256": "0bwjdk865ay136s7sw0xvzdg9sxh59q22py1a7j2dl9ig19mqi13",
   "fetchSubmodules": true
 }

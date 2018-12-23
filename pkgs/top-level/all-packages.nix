@@ -71,6 +71,14 @@ with pkgs;
 
   common-updater-scripts = callPackage ../common-updater/scripts.nix { };
 
+  ### Custom packages
+
+  church-audio-upload = callPackage ../misc/church-audio-upload {};
+
+  #itcli = haskellPackages.callPackage ../development/tools/itcli {};
+
+  konica-minolta = callPackage ../misc/cups/drivers/konica-minolta {};
+
   ### BUILD SUPPORT
 
   autoreconfHook = makeSetupHook
